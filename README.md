@@ -1,10 +1,10 @@
-# horiseon-code-refactor
+# Horiseon-code-refactor
 
 ## Description
 I was asked to refactor an existing site to optimize the code and reduce repetition.  I found that the source code had a lot of elements that we not very specific.  While I was working to reduce repetition I realized I could replace elements on the HTML to make them more specific allowing the code to be read much clearer both by anyone working on the code after me and also any technology such as a screen reader. 
 In the CSS stylesheet I was able to locate several styling elements that shared styling.  This allowed me to cut out repetitive code and compile them into rules that applied to multiple areas at once.  This will allow the code to be more readable but also for the page to load more quickly
 
-## usage
+## Usage
 Link to the live site below
 https://tbarns.github.io/horiseon-code-refactor/
 
@@ -14,7 +14,7 @@ https://tbarns.github.io/horiseon-code-refactor/
 
 <img src="assets\images\photos for README\Screenshot-3.png" atl="Screenshot of the live website">
 
-## credits
+## Credits
 N/A
 
 ## License
