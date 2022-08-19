@@ -1,4 +1,4 @@
-# Horiseon-code-refactor
+# Timothy's-Horiseon-code-refactor
 
 ## Description
 I was asked to refactor an existing site to optimize the code and reduce repetition.  I found that the source code had a lot of elements that we not very specific.  While I was working to reduce repetition I realized I could replace elements on the HTML to make them more specific allowing the code to be read much clearer both by anyone working on the code after me and also any technology such as a screen reader. 
